@@ -44,9 +44,9 @@ export default function AccountInfo({
               />
             </figure>
           </div>
-          <div className="mt-10 mx-6 flex justify-between text-gray-800 text-base font-semibold tracking-tight leading-6">
+          <div className="mt-10 mx-6 flex justify-between text-gray-800 text-sm font-semibold tracking-tight leading-6">
   <p>Abdullahi.0x</p>
-  <p>God bless you Immediately</p>
+  <p className=" whitespace-nowrap">God bless you Immediately</p>
 </div>
 
           {/* <figure>
