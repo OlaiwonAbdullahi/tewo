@@ -67,7 +67,7 @@ function App() {
         </form>
 
         {/* notice */}
-        <div className="bg-[#F6F2FF] flex flex-row items-center gap-1.5 rounded-[16px] p-[13px] w-full">
+        <div className="bg-[#FFE6D8] flex flex-row items-center gap-1.5 rounded-[16px] p-[13px] w-full">
           <Info />
           <p className="text-[#586283] font-normal text-[14px] leading-[17.64px]">
             Send me money abeg make I fit chop 🥺
