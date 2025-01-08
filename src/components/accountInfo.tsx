@@ -44,12 +44,10 @@ export default function AccountInfo({
               />
             </figure>
           </div>
-          <div className="mt-10 mx-[21px] flex flex-row items-center justify-between text-[#1D2329] text-base font-semibold tracking-tight leading-[20.16px]">
-            <p className="">Abdullahi.0x</p>
-            <p className="">
-              God bless you Immediately
-            </p>
-          </div>
+          <div className="mt-10 mx-6 flex justify-between text-gray-800 text-base font-semibold tracking-tight leading-6">
+  <p>Abdullahi.0x</p>
+  <p>God bless you Immediately</p>
+</div>
 
           {/* <figure>
             <img
