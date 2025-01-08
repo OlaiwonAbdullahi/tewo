@@ -46,7 +46,7 @@ export default function AccountInfo({
           </div>
           <div className="mt-10 mx-[21px] flex flex-row items-center justify-between text-[#1D2329] text-base font-semibold tracking-tight leading-[20.16px]">
             <p className="">Abdullahi.0x</p>
-            <p className="px-[10px] py-[8px] border-[1.14px] rounded-[8px] border-solid border-[#F1F1F1]">
+            <p className="px-[10px] py-[8px] ">
               God bless you Immediately
             </p>
           </div>
