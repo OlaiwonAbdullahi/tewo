@@ -31,7 +31,7 @@ export default function AccountInfo({
       <div className="flex flex-col  justify-center bg-white shadow-neutral-800 drop-shadow-lg rounded-[32px] w-full h-full p-3 md:p-[30px]">
         <header className="relative  mx-auto flex flex-col justify-center rounded-[16px] w-full shadow-four bg-white py-[5px]">
           <div
-            className="bg-[#FFE6D8] w-[99%] mx-auto min-h-[45px] relative"
+            className="bg-[#bfacf2] w-[99%] mx-auto min-h-[45px] relative"
             style={{ borderRadius: "12px 12px 0px 0px" }}
           >
             <figure className="absolute top-[19px] left-[19.5px]">
@@ -96,7 +96,7 @@ export default function AccountInfo({
         <div className="max-w-[450px] mx-auto flex w-full gap-5 justify-between">
           <button
             onClick={() => setIsExploding(true)}
-            className=" py-2.5 md:py-5 flex-1 flex justify-center items-center text-white gap-2 rounded-[16px] bg-[#FE7122]"
+            className=" py-2.5 md:py-5 flex-1 flex justify-center items-center text-white gap-2 rounded-[16px] bg-[#8663e6]"
           >
             Sent ? <Sent />
           </button>
